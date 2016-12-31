@@ -10,7 +10,7 @@ import android.widget.VideoView;
 import android.content.Intent;
 import android.media.MediaPlayer;
 import android.net.Uri;
-
+//
 public class MainActivity extends AppCompatActivity {
     private static final String TAG="SimpleMediaPlayer";
     private MediaPlayer mMediaPlayer;
